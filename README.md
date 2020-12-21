@@ -13,7 +13,7 @@ __Usage:__ `python instagram.py <username> <wordlist> <threads>`
 
 ### Help
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py -h
+C:\Users\Adnan\Desktop\Instagram>python instagram.py -h
 usage: instagram.py [-h] username wordlist threads
 
 positional arguments:
@@ -27,7 +27,7 @@ optional arguments:
 
 ### Start
 ```
-C:\Users\Mohamed\Desktop\Instagram>python instagram.py Sami09.1 pass.lst 16
+C:\Users\Adnan\Desktop\Instagram>python instagram.py Sami09.1 pass.lst 16
 ```
 
 ### Run
